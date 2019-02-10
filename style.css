@@ -1,0 +1,40 @@
+h1{
+text-align:center;
+}
+
+.banner{
+	background-color:cyan;
+	background-size:500 500
+	color:black;
+	padding:10px 20px
+}
+	
+	
+	nav{
+		background-color:midnightblue;
+		padding:5px;
+		margin-top:1px;
+	}
+	li a{
+		color:white;
+	}
+	li{
+		display:inline;
+		font-size:20px;
+		font-weight:bold;
+		margin-right:20px;
+		margin-left: 20px;
+	}
+	
+	section{
+		background-color:green;
+		padding:10px;
+	}
+	div{
+		font-family:impact;
+		font-size:20px;
+		background-color:yellow;
+		padding:10px 15px;
+		margin-top:3px;
+	}
+	
